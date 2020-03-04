@@ -1,0 +1,2 @@
+# MandelbrotTangNano
+Mandelbrot calculation accelerator
